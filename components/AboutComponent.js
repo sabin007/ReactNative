@@ -43,7 +43,7 @@ class About extends Component {
 
 function Mission() {
   return (
-    <Card title="Our Mission">
+    <Card>
       <Text style={{ margin: 10 }}>
         We present a curated database of the best campsites in the vast woods
         and backcountry of the World Wide Web Wilderness. We increase access to
